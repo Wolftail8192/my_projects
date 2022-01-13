@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7841c0fd-2d6e-4cba-b91c-fd542f6bea57" name="Changes" comment="my_projects">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="7841c0fd-2d6e-4cba-b91c-fd542f6bea57" name="Changes" comment="less1_cw" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="less1" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642073625767</updated>
       <workItem from="1642073627947" duration="9601000" />
-      <workItem from="1642083307160" duration="1125000" />
+      <workItem from="1642083307160" duration="1631000" />
     </task>
     <task id="LOCAL-00001" summary="MyProjects">
       <created>1642075338970</created>
@@ -126,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642084098024</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="my_projects">
+      <created>1642084503913</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642084503913</updated>
+    </task>
+    <task id="LOCAL-00009" summary="less1_cw">
+      <created>1642084633182</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1642084633182</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +173,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="hw1" />
     <MESSAGE value="my_projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="my_projects" />
+    <MESSAGE value="less1_cw" />
+    <option name="LAST_COMMIT_MESSAGE" value="less1_cw" />
   </component>
 </project>
