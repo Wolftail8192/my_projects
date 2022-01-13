@@ -14,7 +14,7 @@ export default function Comments() {
     },[])
 
     return(
-        <div>
+        <div className={'foot'}>
             <ul>
                 {
                     comments.map(value => <li key={value.id}><Comment  item={value}/> </li>)

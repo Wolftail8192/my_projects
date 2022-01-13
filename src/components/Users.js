@@ -13,7 +13,7 @@ export default function Users() {
         },[])
 
     return(
-        <div>
+        <div className={'ul'}>
             <ul>
                 {
                     users.map(value => <li key={value.id}><User  item={value}/> </li>)

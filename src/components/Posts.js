@@ -14,7 +14,7 @@ export default function Posts() {
     },[])
 
     return(
-        <div>
+        <div className={'ur'}>
             <ul>
                 {
                     posts.map(value => <li key={value.id}><Post  item={value}/> </li>)

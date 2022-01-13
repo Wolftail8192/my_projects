@@ -12,11 +12,13 @@ function App() {
 
   return (
     <div className="App">
-        <Users/>
-        <hr/>
-        <Posts/>
-        <hr/>
-        <Comments/>
+        <div className={'das'}>
+            <Users/>
+            <hr/>
+            <Posts/>
+            <hr/>
+        </div>
+            <Comments/>
 
     </div>
   );
